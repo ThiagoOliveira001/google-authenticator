@@ -1,0 +1,17 @@
+{
+  "name": "google-authenticator",
+  "version": "1.0.0",
+  "description": "Testando auth com google authenticator",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Thiago Silva de Oliveira",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "qrcode": "^1.4.4",
+    "speakeasy": "^2.0.0"
+  }
+}
